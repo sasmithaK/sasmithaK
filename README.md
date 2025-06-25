@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👉 [Try the interactive widget](https://sasmithak.github.io/readme-md-widget/)
+[![View Widget](https://yourdomain.com/static-image.png)](https://yourusername.github.io/interactive-hover-widget/)
+
