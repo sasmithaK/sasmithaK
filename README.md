@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![View Widget](https://yourdomain.com/static-image.png)](https://yourusername.github.io/interactive-hover-widget/)
+[![View Widget](https://yourdomain.com/static-image.png)](https://sasmithak.github.io/readme-md-widget/)
 
