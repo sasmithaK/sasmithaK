@@ -1,4 +1,6 @@
-# 🌌 Welcome, traveller...
+# ![smiling-face-with-smiling-eyes](https://github.com/user-attachments/assets/d4c7555c-2354-42ea-834e-219fdb72a58e) Welcome, traveller...
+![robot](https://github.com/user-attachments/assets/1e4d7f1a-7343-4ccf-802c-86bfa1eb2b1e)
+
 
 I am **Sasmitha Kavindu Gunasena** —  
 A third-year **Software Engineering** student,  
