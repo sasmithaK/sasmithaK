@@ -11,10 +11,9 @@ Forging ideas into digital realms.
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile-deployment.vercel.app/api/github-stats?username=sasmithaK&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile-deployment.vercel.app/api/github-stats?username=sasmithaK&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile-deployment.vercel.app/api/github-stats?username=sasmithaK&theme=ctr">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile-deployment.vercel.app/api/github-stats?username=sasmithaK&theme=summer&hide=avatar">
+  <img alt="github stats" src="https://pixel-profile-deployment.vercel.app/api/github-stats?username=sasmithaK">
 </picture>
-
 ---
 
 ## ✨ A Bit About This Dev
