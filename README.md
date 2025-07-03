@@ -4,6 +4,19 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
 
 🔧 I am interested in learning and working with modern technologies like React, Node.js, Flask, FastAPI, Spring Boot, Docker and I'm always eager to explore new tools and frameworks.
 
+<h2 align="center">📫 Connect with me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/sasmithakg" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kavindugunasena@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discordapp.com/users/sasmitha3000k">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
 ## ✨ A bit more about me
 <table>
 <tr border="none">
@@ -29,14 +42,15 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
 </table>
 
 <details>
-  <summary>Fun Facts 🤗</summary>
+  <summary><h3>Fun Facts 🤗</h3></summary>
   
-  - 🎵 My playlist is 50% Lofi, 30% anime OSTs, and 20% “90s hits”.
-  
-  - My favourite Pokémon is **Charizard**  
-    <img src="https://github.com/user-attachments/assets/ba73e1d6-9d1b-44fd-b2aa-4dd89b434751" alt="Charizard" width="100"/>
-  
+  - 🎧 My playlist is 50% Lofi, 30% anime OSTs, and 20% “90s hits”.
+
   - 🎮 I can spend hours tweaking game mechanics, even for a game only I’ll play.
+  
+  - 🐲 My favourite Pokémon is **Charizard**  
+    <img src="https://github.com/user-attachments/assets/ba73e1d6-9d1b-44fd-b2aa-4dd89b434751" alt="Charizard" width="100"/>
+
 
 </details>
 
