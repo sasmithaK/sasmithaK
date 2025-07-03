@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6e05a5a5-75cc-40a5-ae41-46b18dfd6003" alt="Banner" width="100%""/>
+</p>
+
 # ![smiling-face-with-smiling-eyes](https://github.com/user-attachments/assets/d4c7555c-2354-42ea-834e-219fdb72a58e)  Hi there, I am Sasmitha Kavindu...
 
 I'm a third-year Information Technology undergraduate, specialising in Software Engineering. I enjoy turning ideas into real-world applications, with a strong interest in full-stack development, cloud computing, and AI integration.
