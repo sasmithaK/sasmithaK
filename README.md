@@ -5,9 +5,9 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
 🔧 I am interested in learning and working with modern technologies like React, Node.js, Flask, FastAPI, Spring Boot, Docker and I'm always eager to explore new tools and frameworks.
 
 ## ✨ A bit more about me
-<table align="center">
+<table>
 <tr border="none">
-<td width="50%" align="left">
+<td width="75%" align="left">
 
 🧑‍🎓 I'm an undergraduate at SLIIT, Sri Lanka.
 
@@ -22,9 +22,9 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
 
 
 </td>
-<td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="">
-  </td>
+<td width="25%" align="center">
+  <img align="center" alt="Coding" width="250" src="https://github.com/user-attachments/assets/295fe90a-6c0a-47d3-a321-0126e8016af4">
+</td>
 </tr>
 </table>
 
