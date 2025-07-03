@@ -28,6 +28,20 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
 </tr>
 </table>
 
+<details>
+  <summary>Fun Facts 🤗</summary>
+  
+  - 🎵 My playlist is 50% Lofi, 30% anime OSTs, and 20% “90s hits”.
+  
+  - My favourite Pokémon is **Charizard**  
+    <img src="https://github.com/user-attachments/assets/ba73e1d6-9d1b-44fd-b2aa-4dd89b434751" alt="Charizard" width="100"/>
+  
+  - 🎮 I can spend hours tweaking game mechanics, even for a game only I’ll play.
+
+</details>
+
+
+
 ---
 
 ## 🧙 Tech Grimoire
