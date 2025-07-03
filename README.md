@@ -36,8 +36,6 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
 
 🎧 Outside of tech, you'll find me reading manga, watching anime, or listening to music
 
-
-
 </td>
 <td width="25%" align="center">
   <img align="center" alt="Coding" width="250" src="https://github.com/user-attachments/assets/295fe90a-6c0a-47d3-a321-0126e8016af4">
@@ -46,14 +44,11 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
 </table>
 
 <details>
-  <summary><h3>Fun Facts 🤗</h3></summary>
+  <summary><h3> 🤗 A Fun Fact about me <img src="https://github.com/user-attachments/assets/5429fb30-ba18-44bf-9e58-7b5f80a6e1d4" alt="pokeball" width="40" height="40"></h3></summary>
   
-  - 🎧 My playlist is 50% Lofi, 30% anime OSTs, and 20% “90s hits”.
-
-  - 🎮 I can spend hours tweaking game mechanics, even for a game only I’ll play.
+  *My favourite Pokémon is **Charizard***
   
-  - 🐲 My favourite Pokémon is **Charizard**  
-    <img src="https://github.com/user-attachments/assets/ba73e1d6-9d1b-44fd-b2aa-4dd89b434751" alt="Charizard" width="100"/>
+  <img src="https://github.com/user-attachments/assets/ba73e1d6-9d1b-44fd-b2aa-4dd89b434751" alt="Charizard" width="100"/>
 
 
 </details>
