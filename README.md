@@ -105,6 +105,7 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
 ![JSON Web Tokens Badge](https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?logo=obsidian&logoColor=white&style=for-the-badge)
 ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge)
+![Figma Badge](https://img.shields.io/badge/Figma-0ACF83?logo=figma&logoColor=white&style=for-the-badge)
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
 ![EasyEDA Badge](https://img.shields.io/badge/EasyEDA-1765F6?logo=easyeda&logoColor=fff&style=for-the-badge)
 
