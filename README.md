@@ -21,6 +21,8 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
   </a>
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sasmithaK&label=Profile%20views&color=yellow&style=flat" alt="sasmithaK" /> </p>
+
 ## ✨ A bit more about me
 <table>
 <tr border="none">
