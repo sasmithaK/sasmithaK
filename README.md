@@ -44,7 +44,7 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
 </table>
 
 <details>
-  <summary><h3> 🤗 A Fun Fact about me <img src="https://github.com/user-attachments/assets/5429fb30-ba18-44bf-9e58-7b5f80a6e1d4" alt="pokeball" width="40" height="40"></h3></summary>
+  <summary><h3> 🤗 A Fun Fact <img src="https://github.com/user-attachments/assets/5429fb30-ba18-44bf-9e58-7b5f80a6e1d4" alt="pokeball" width="40" height="40"></h3></summary>
   
   *My favourite Pokémon is **Charizard***
   
