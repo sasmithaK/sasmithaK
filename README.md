@@ -61,6 +61,8 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
 
 ## 🧙 Tech Grimoire
 
+<div align="center">
+
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
@@ -108,5 +110,7 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)
 ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge)
+
+</div>
 
 ---
