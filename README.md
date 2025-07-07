@@ -59,7 +59,7 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
 
 ---
 
-## 🧙 Tech Grimoire
+## 🧙 Tech Grimoire - *I am familiar with*
 
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
@@ -103,7 +103,7 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
 ![EasyEDA Badge](https://img.shields.io/badge/EasyEDA-1765F6?logo=easyeda&logoColor=fff&style=for-the-badge)
 
-**Familiar with DevOps / Cloud:**  
+**DevOps / Cloud:**  
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)
