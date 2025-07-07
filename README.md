@@ -59,7 +59,8 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
 
 ---
 
-## 🧙 Tech Grimoire - *I am familiar with*
+## 🧙 Tech Grimoire 
+``` Technologies I am familiar with```
 
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
