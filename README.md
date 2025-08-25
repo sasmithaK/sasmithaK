@@ -69,7 +69,6 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge)
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge)
 ![Docker Badge](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white&style=for-the-badge)
-![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white&style=for-the-badge)
 
 </div>
 
