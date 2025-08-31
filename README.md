@@ -34,15 +34,19 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
 <tr border="none">
 <td width="75%" align="left">
 
-🧑‍🎓 I'm an undergraduate at SLIIT, Sri Lanka.
+# Hi there! 👋
 
-🌱 Currently exploring the amazing world of Python and building fun, real-world projects
+🧑‍🎓 I'm an **undergraduate at SLIIT, Sri Lanka**.  
 
-💬 Passionate about AI/ML, especially in the context of education, automation, and creativity
+💼 Currently working as a **Software Engineering Intern**, mainly focused on **backend development**.
 
-🤖 I love game development, robotics, electronics, and experimenting with tech
+🌱 Exploring the amazing world of **Python** and building fun, real-world projects.  
 
-🎧 Outside of tech, you'll find me reading manga, watching anime, or listening to music
+💬 Passionate about **AI/ML**, especially in the context of **education, automation, and creativity**.  
+
+🤖 I enjoy **game development, robotics, electronics**, and experimenting with new tech.  
+
+🎧 Outside of tech, you'll find me **reading manga, watching anime, or listening to music**.  
 
 </td>
 <td width="25%" align="center">
@@ -52,7 +56,7 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
 </table>
 
 <details>
-  <summary><h3> 🤗 A Fun Fact <img src="https://github.com/user-attachments/assets/5429fb30-ba18-44bf-9e58-7b5f80a6e1d4" alt="pokeball" width="40" height="40"></h3></summary>
+  <summary><h3> 🤗 A Fun Facts <img src="https://github.com/user-attachments/assets/5429fb30-ba18-44bf-9e58-7b5f80a6e1d4" alt="pokeball" width="40" height="40"></h3></summary>
   
   *My favourite Pokémon is **Charizard***
   
