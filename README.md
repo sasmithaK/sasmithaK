@@ -34,8 +34,6 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
 <tr border="none">
 <td width="75%" align="left">
 
-# Hi there! 👋
-
 🧑‍🎓 I'm an **undergraduate at SLIIT, Sri Lanka**.  
 
 💼 Currently working as a **Software Engineering Intern**, mainly focused on **backend development**.
