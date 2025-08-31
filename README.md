@@ -36,7 +36,7 @@ I'm a third-year Information Technology undergraduate, specialising in Software 
 
 🧑‍🎓 I'm an **undergraduate at SLIIT, Sri Lanka**.  
 
-💼 Currently working as a **Software Engineering Intern**, mainly focused on **backend development**.
+💼 Currently Interning as a **Software Engineer**, mainly focused on **backend development**.
 
 🌱 Exploring the amazing world of **Python** and building fun, real-world projects.  
 
