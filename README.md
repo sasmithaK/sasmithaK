@@ -4,7 +4,7 @@
 
 # ![smiling-face-with-smiling-eyes](https://github.com/user-attachments/assets/d4c7555c-2354-42ea-834e-219fdb72a58e)  Hi there, I am Sasmitha Kavindu...
 
-I'm a third-year Information Technology undergraduate, specialising in Software Engineering. I enjoy turning ideas into real-world applications, with a strong interest in full-stack development, cloud computing, and AI integration.
+I'm a 3rd-year IT undergrad, specialising in Software Engineering. I enjoy turning ideas into real-world applications, with a strong interest in full-stack development, cloud computing, and AI integration.
 
 🔧 I am interested in learning and working with modern technologies like React, Node.js, Flask, FastAPI, Spring Boot, Docker and I'm always eager to explore new tools and frameworks.
 
