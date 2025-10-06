@@ -74,6 +74,7 @@ I'm a 3rd-year IT undergrad, specialising in Software Engineering. I enjoy turni
 ![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge)
 ![React Badge](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white&style=for-the-badge)
+[![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
@@ -86,7 +87,7 @@ I'm a 3rd-year IT undergrad, specialising in Software Engineering. I enjoy turni
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=fff&style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-
+![WSL](https://img.shields.io/badge/WSL-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
