@@ -1,3 +1,8 @@
+<p>
+  <a href="https://user-badge.committers.top/sri_lanka/sasmithaK">
+    <img src="https://user-badge.committers.top/sri_lanka/sasmithaK.svg" />
+  </a>
+</p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6e05a5a5-75cc-40a5-ae41-46b18dfd6003" alt="Banner" width="100%""/>
 </p>
@@ -23,10 +28,6 @@ I'm a 3rd-year IT undergrad, specialising in Software Engineering. I enjoy turni
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sasmithaK&label=Profile%20views&color=yellow&style=flat" alt="sasmithaK" />
-  
-  <a href="https://user-badge.committers.top/sri_lanka/sasmithaK">
-    <img src="https://user-badge.committers.top/sri_lanka/sasmithaK.svg" />
-  </a>
 </p>
 
 ## ✨ A bit more about me
