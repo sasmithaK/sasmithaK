@@ -30,31 +30,31 @@ I'm a 3rd-year IT undergrad, specialising in Software Engineering. I enjoy turni
   <img src="https://komarev.com/ghpvc/?username=sasmithaK&label=Profile%20views&color=yellow&style=flat" alt="sasmithaK" />
 </p>
 
-## 
+---
 
 <details>
   <table>
-<tr border="none">
-<td width="75%" align="left">
-
-🧑‍🎓 I'm an **undergraduate at SLIIT, Sri Lanka**.  
-
-💼 Currently Interning as a **Software Engineer**, mainly focused on **backend development**.
-
-🌱 Exploring the amazing world of **Python** and building fun, real-world projects.  
-
-💬 Passionate about **AI/ML**, especially in the context of **education, automation, and creativity**.  
-
-🤖 I enjoy **game development, robotics, electronics**, and experimenting with new tech.  
-
-🎧 Outside of tech, you'll find me **reading manga, watching anime, or listening to music**.  
-
-</td>
-<td width="25%" align="center">
-  <img align="center" alt="Coding" width="250" src="https://github.com/user-attachments/assets/295fe90a-6c0a-47d3-a321-0126e8016af4">
-</td>
-</tr>
-</table>
+  <tr border="none">
+  <td width="75%" align="left">
+  
+  🧑‍🎓 I'm an **undergraduate at SLIIT, Sri Lanka**.  
+  
+  💼 Currently Interning as a **Software Engineer**, mainly focused on **backend development**.
+  
+  🌱 Exploring the amazing world of **Python** and building fun, real-world projects.  
+  
+  💬 Passionate about **AI/ML**, especially in the context of **education, automation, and creativity**.  
+  
+  🤖 I enjoy **game development, robotics, electronics**, and experimenting with new tech.  
+  
+  🎧 Outside of tech, you'll find me **reading manga, watching anime, or listening to music**.  
+  
+  </td>
+  <td width="25%" align="center">
+    <img align="center" alt="Coding" width="250" src="https://github.com/user-attachments/assets/295fe90a-6c0a-47d3-a321-0126e8016af4">
+  </td>
+  </tr>
+  </table>
   
   <summary><h3> ✨ Bit more about me <img src="https://github.com/user-attachments/assets/5429fb30-ba18-44bf-9e58-7b5f80a6e1d4" alt="pokeball" width="40" height="40"></h3></summary>
   
