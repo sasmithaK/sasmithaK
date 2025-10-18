@@ -30,8 +30,10 @@ I'm a 3rd-year IT undergrad, specialising in Software Engineering. I enjoy turni
   <img src="https://komarev.com/ghpvc/?username=sasmithaK&label=Profile%20views&color=yellow&style=flat" alt="sasmithaK" />
 </p>
 
-## ✨ A bit more about me
-<table>
+## 
+
+<details>
+  <table>
 <tr border="none">
 <td width="75%" align="left">
 
@@ -53,9 +55,8 @@ I'm a 3rd-year IT undergrad, specialising in Software Engineering. I enjoy turni
 </td>
 </tr>
 </table>
-
-<details>
-  <summary><h3> 🤗 A Fun Facts <img src="https://github.com/user-attachments/assets/5429fb30-ba18-44bf-9e58-7b5f80a6e1d4" alt="pokeball" width="40" height="40"></h3></summary>
+  
+  <summary><h3> ✨ Bit more about me <img src="https://github.com/user-attachments/assets/5429fb30-ba18-44bf-9e58-7b5f80a6e1d4" alt="pokeball" width="40" height="40"></h3></summary>
   
   *My favourite Pokémon is **Charizard***
   
