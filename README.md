@@ -1,38 +1,59 @@
-<p>
+<p align="center">
   <a href="https://user-badge.committers.top/sri_lanka/sasmithaK">
     <img src="https://user-badge.committers.top/sri_lanka/sasmithaK.svg" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6e05a5a5-75cc-40a5-ae41-46b18dfd6003" alt="Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/6e05a5a5-75cc-40a5-ae41-46b18dfd6003" width="100%" />
 </p>
 
-# 👋 Hey, I'm Sasmitha
+<br>
 
-I like building things that quietly work in the background and weird side projects that probably shouldn’t exist.
+<h1 align="center">🌱 Just a sprout</h1>
 
-Usually, that means backend services, APIs, or small tools that solve annoying problems (and sometimes create new ones).  
-Every now and then, I disappear into random tech rabbit holes and come back with a new project.
-
----
-
-## 🧩 Things I like messing with
-
-* ⚙️ backend systems & clean APIs  
-* 🐳 containers and microservices  
-* 🧪 small tools and experiments  
-* 🔧 fixing electronics / hardware tinkering  
-* 📚 learning random tech just because it's interesting  
-
-Currently diving into:
-
-- backend software architecture, memory management, and CI/CD  
-- image understanding / computer vision  
+<p align="center">
+Learning. Building. Growing one commit at a time.
+</p>
 
 ---
 
-## 🧙 My Tech Grimoire
+## 👋 Hi, I'm Sasmitha
+
+I'm a software engineering student who likes poking around to see how systems actually work behind the scenes.
+
+Currently trying to understand systems better than they understand me.
+
+Most of the things I build tend to orbit around:
+
+- backend services  
+- APIs and system architecture  
+- microservices and containers  
+- small developer tools and random experiments  
+
+I enjoy building the quiet parts of software; the stuff users rarely see but everything somehow depends on.
+
+A lot of my projects start the same way:  
+*"I wonder how this works..."*
+
+Then I fall into a technical rabbit hole, break a few things, learn something new… and sometimes a project crawls out of it.
+
+---
+
+## 🗺 Currently exploring
+
+Right now I'm diving into topics like:
+
+- backend architecture and distributed systems  
+- CI/CD and developer workflows  
+- containerized infrastructure  
+- computer vision and image understanding  
+
+Mostly figuring things out as I go.
+
+---
+
+## 🧰 Things I often build with
 
 <div align="center">
 
@@ -55,7 +76,7 @@ Currently diving into:
 
 ---
 
-## 📫 Find me around the internet
+## 📩 Find me around the internet
 
 <p align="center">
   <a href="https://linkedin.com/in/sasmithakg">
@@ -69,6 +90,8 @@ Currently diving into:
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sasmithaK&label=Profile%20views&color=yellow&style=flat" />
+🌱 still growing… one commit at a time
 </p>
