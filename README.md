@@ -5,7 +5,7 @@
 <h1 align="center">🌱 Just a sprout</h1>
 
 <p align="center">
-Learning. Building. Growing one commit at a time.
+Learning. Building. Failing. Growing.
 </p>
 
 ---
@@ -35,17 +35,17 @@ Then I fall into a technical rabbit hole, break a few things, learn something ne
 ## 🗺 Currently exploring
 
 Right now I'm diving into topics like:
-
-- backend architecture and distributed systems  
+- system architecture
+- distributed systems  
 - CI/CD and developer workflows  
-- containerized infrastructure  
+- containerised infrastructure  
 - computer vision and image understanding  
 
 Mostly figuring things out as I go.
 
 ---
 
-## 🧰 Things I often build with
+## 🧰 My kinda things
 
 <div align="center">
 
@@ -83,7 +83,3 @@ Mostly figuring things out as I go.
 </p>
 
 ---
-
-<p align="center">
-🌱 still growing… one commit at a time
-</p>
