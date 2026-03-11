@@ -1,8 +1,6 @@
-<p align="center">
-  <a href="https://user-badge.committers.top/sri_lanka/sasmithaK">
+<a href="https://user-badge.committers.top/sri_lanka/sasmithaK">
     <img src="https://user-badge.committers.top/sri_lanka/sasmithaK.svg" />
-  </a>
-</p>
+</a>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6e05a5a5-75cc-40a5-ae41-46b18dfd6003" width="100%" />
