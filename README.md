@@ -10,7 +10,7 @@ I'm passionate about **application development** and enjoy turning ideas into pr
 
 **Centraqube** is a software brand I'm building around my projects, ideas, and experiments, with a focus on creating practical applications and exploring new technologies.
 
-### 🧙‍♂️ CentraCaster
+### 🧙‍♂️ [CentraCaster](https://github.com/centraqube/centracaster)
 
 **Secure Remote Access & Control**
 
