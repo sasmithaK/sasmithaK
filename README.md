@@ -2,7 +2,7 @@
 
 > **I love building software to solve problems I run into myself.**
 
-I'm passionate about **application development** and enjoy turning ideas into practical solutions. I like experimenting with new technologies, learning how things work, and building applications across **mobile development, backend systems, APIs, and software architecture**.
+I'm passionate about **application development** and enjoy turning ideas into practical solutions. I like experimenting with new technologies, learning how things work, and building applications across **mobile tech, backend systems, APIs, and software architecture**.
 
 ---
 
