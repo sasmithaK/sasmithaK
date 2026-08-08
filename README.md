@@ -1,84 +1,52 @@
-<a href="https://user-badge.committers.top/sri_lanka/sasmithaK">
-    <img src="https://user-badge.committers.top/sri_lanka/sasmithaK.svg" />
-</a>
+# 👋 Hi, I'm Sasmitha
 
-<h1 align="center">🌱 Just a sprout</h1>
+> **I love building software to solve problems I run into myself.**
 
-<p align="center">
-Learning. Building. Failing. Growing.
+I'm passionate about **application development** and enjoy turning ideas into practical solutions. I like experimenting with new technologies, learning how things work, and building applications across **mobile development, backend systems, APIs, and software architecture**.
+
+---
+
+## 🚀 Building [Centraqube](https://github.com/centraqube)
+
+**Centraqube** is a software brand I'm building around my projects, ideas, and experiments, with a focus on creating practical applications and exploring new technologies.
+
+### 🧙‍♂️ CentraCaster
+
+**Secure Remote Access & Control**
+
+[CentraCaster](https://github.com/centraqube/centracaster-host) is one of the first projects under Centraqube; a remote access and control tool that enables **developers and power users to securely monitor and control Windows/Linux machines from Android devices**.
+
+
+---
+
+## 🛠️ What I Build With
+
+<p>
+  <img src="https://img.shields.io/badge/Mobile%20Development-181717?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-181717?style=flat-square" />
+  <img src="https://img.shields.io/badge/APIs-181717?style=flat-square" />
+  <img src="https://img.shields.io/badge/System%20Architecture-181717?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-181717?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps-181717?style=flat-square" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-181717?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-181717?style=flat-square" />
+</p>
+
+### ⚙️ Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,go,java,python,spring,androidstudio,linux" />
 </p>
 
 ---
 
-## 👋 Hi, I'm Sasmitha
+## 🌐 Connect
 
-I'm a software engineering student who likes poking around to see how systems actually work behind the scenes.
-
-Currently trying to understand systems better than they understand me.
-
-Most of the things I build tend to orbit around:
-
-- backend services  
-- APIs and system architecture  
-- microservices and containers  
-- small developer tools and random experiments  
-
-I enjoy building the quiet parts of software; the stuff users rarely see but everything somehow depends on.
-
-A lot of my projects start the same way:  
-*"I wonder how this works..."*
-
-Then I fall into a technical rabbit hole, break a few things, learn something new… and sometimes a project crawls out of it.
-
----
-
-## 🗺 Currently exploring
-
-Right now I'm diving into topics like:
-- system architecture
-- distributed systems  
-- CI/CD and developer workflows  
-- containerised infrastructure  
-- computer vision and image understanding  
-
-Mostly figuring things out as I go.
-
----
-
-## 🧰 My kinda things
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-
-</div>
-
----
-
-## 📩 Find me around the internet
-
-<p align="center">
-  <a href="https://linkedin.com/in/sasmithakg">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p>
+  <a href="https://github.com/sasmithaK">
+    <img src="https://img.shields.io/badge/GitHub-sasmithaK-181717?style=flat-square&logo=github" />
   </a>
-  <a href="mailto:kavindugunasena@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discordapp.com/users/sasmitha3000k">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
