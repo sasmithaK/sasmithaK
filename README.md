@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sasmitha
 
-I love application development; turning ideas and problems into things I can actually build and use. I enjoy experimenting with new technologies, figuring out how things work, and building across web, mobile and desktop.
+I love application development; turning ideas and problems into things I can actually build and use. I enjoy experimenting with new technologies, figuring out how things work, and building frontend and backend, across web, mobile and desktop.
 
 ---
 
