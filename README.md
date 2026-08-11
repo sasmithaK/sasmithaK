@@ -8,9 +8,9 @@ I'm into **application development**; turning ideas and problems into things I c
 
 ## 🚀 Building [Centraqube](https://github.com/centraqube)
 
-**Centraqube** is a software brand I'm building around my projects, ideas, and experiments — a place to build practical software and explore new technologies.
+**Centraqube** is a software brand I'm building around my projects, ideas, and experiments; a place to build practical software and explore new technologies.
 
-### 🧙‍♂️ [CentraCaster](https://github.com/centraqube/centracaster)
+### 🧙‍♂️ [CentraCaster](https://github.com/centraqube/centracaster) (🚧 In development)
 **Secure Remote Server Access and Control**
 
 CentraCaster is a project under Centraqube that enables **developers and power users to securely monitor and control Windows/Linux machines from Android devices**.
